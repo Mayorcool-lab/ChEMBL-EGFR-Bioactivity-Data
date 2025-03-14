@@ -20,6 +20,7 @@ This project retrieves and processes bioactivity and compound data from the ChEM
 📊 **Dataset Information**
 
 * Source: ChEMBL Database ([https://www.ebi.ac.uk/chembl/](https://www.ebi.ac.uk/chembl/))
+* Citation : https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x
 * Target: Epidermal Growth Factor Receptor (EGFR kinase)
 * Features:
     * Molecular properties of compounds.
